@@ -2,4 +2,4 @@
 
 Sample repo for memory leak example.
 
-Run `jest --runInBand --logHeapUsage`
+Run `npx nx test --runInBand --logHeapUsage`
